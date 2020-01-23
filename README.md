@@ -13,6 +13,6 @@ Digital Manufacturing Homework Starter Code Repository
 Once downloaded, unzip the folder and begin editing the included .ino files in each HW_Sensor_Prog-PX folder. If you want to move or create new folders, copy the entire HW_Sensor_Prog-PX folder and subfolders to maintain the required libraries. The libraries included were tested to work with the hardware provided. If other libraries are used, the TA may not be able to assist with issues that you may have.
 
 **Startup Resources:**
-RTC: https://learn.adafruit.com/adafruit-ds3231-precision-rtc-breakout
-Analog Acc: https://www.adafruit.com/product/163
-IMU: https://learn.sparkfun.com/tutorials/mpu-9250-hookup-guide/all
+- RTC: https://learn.adafruit.com/adafruit-ds3231-precision-rtc-breakout
+- Analog Acc: https://www.adafruit.com/product/163
+- IMU: https://learn.sparkfun.com/tutorials/mpu-9250-hookup-guide/all
