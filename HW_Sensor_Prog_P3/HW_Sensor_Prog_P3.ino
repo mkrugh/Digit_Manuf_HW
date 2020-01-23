@@ -1,6 +1,6 @@
 /* 
- *  Digital Manufacturing Homework Sensor Programming Part 1
- *  Objective: Data collection and USB serial transmission
+ *  Digital Manufacturing Homework Sensor Programming Part 3
+ *  Objective: Motion and rotation tracking
  *  Required Hardware:
  *  *   Teensy 3.2 
  *  *   DS3231 RTC (I2C 0x68)
